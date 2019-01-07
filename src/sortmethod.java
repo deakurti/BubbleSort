@@ -12,4 +12,16 @@ public class sortmethod {
             return arr;
 
     }
+    public static boolean isSorted (int[] arr){
+        boolean = true;
+        for (int a = 0; array.length >a+1; a++){
+            if (arr[a] > arr[a+1]){
+                return False;
+            }
+            else {
+                return True;
+            }
+        }
+    }
+    public static boolean checkSu,
 }
